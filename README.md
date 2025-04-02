@@ -14,4 +14,4 @@ mv .zshrc ~/.zshrc && sudo mv ~/.zshrc
 
 - Foto do terminal
    
-![image](https://github.com/user-attachments/assets/279dfb0a-558b-439c-a5de-9b9fe09fc1d7)
+![image](https://github.com/user-attachments/assets/11f69391-fdd8-4938-8f5c-4b5285951000)
