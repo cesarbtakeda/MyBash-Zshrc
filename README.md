@@ -6,7 +6,7 @@ Repositorio criado para deixar seu termina zsh bem bonito e personalizado.... Eu
 sudo git clone https://github.com/cesarbtakda/MyBash-Zshrc
 ```
 ```
-mv .zshrc ~/,zshrc && sudo mv .zshrc 
+mv .zshrc ~/.zshrc && sudo mv ~/.zshrc 
 ```
 
 ## Terminal ZSHRC
