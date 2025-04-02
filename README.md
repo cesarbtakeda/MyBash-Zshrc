@@ -3,7 +3,7 @@ Repositorio criado para deixar seu termina zsh bem bonito e personalizado.... Eu
 
 ## Lista de comandos
 ```
-sudo git clone https://github.com/cesarbtakeda/MyBash-Zshrc && cd MyBash-Zshrc
+sudo git clone https://github.com/cesarbtakeda/MyBash-Zshrc.git && cd MyBash-Zshrc
 ```
 ```
  sudo cp -r zshrc.sh ~/.zshrc && cp -r zshrc.sh ~/.zshrc
