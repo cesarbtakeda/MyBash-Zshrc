@@ -1,4 +1,4 @@
-# ~/.zshrc - Configuração Completa com Usuário Dinâmico e Emojis
+# ~/.zshrc
 
 # ========== CONFIGURAÇÕES BÁSICAS ==========
 autoload -U compinit && compinit
