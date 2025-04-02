@@ -3,10 +3,10 @@ Repositorio criado para deixar seu termina zsh bem bonito e personalizado.... Eu
 
 ## Lista de comandos
 ```
-sudo git clone https://github.com/cesarbtakda/MyBash-Zshrc && cp -r .zshrc ~/.zshrc
+sudo git clone https://github.com/cesarbtakeda/MyBash-Zshrc && cp -r MyBash-Zshrc/.zshrc ~/.zshrc
 ```
 ```
- sudo cp -r .zshrc ~/.zshrc && sour
+ sudo cp -r MyBash-Zshrc/.zshrc ~/.zshrc && sour
 ```
 
 ## Terminal ZSHRC
