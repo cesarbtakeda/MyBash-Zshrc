@@ -8,6 +8,9 @@ sudo git clone https://github.com/cesarbtakeda/MyBash-Zshrc.git && cd MyBash-Zsh
 ```
  sudo cp -r zshrc.sh ~/.zshrc && cp -r zshrc.sh ~/.zshrc
 ```
+```iniciar com zsh
+chsh -s $(which zsh)
+```
 
 ## Terminal ZSHRC
 
